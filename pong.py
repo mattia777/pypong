@@ -1,4 +1,4 @@
-# https://www.youtube.com/watch?v=XGf2GcyHPhc
+
 
 
 
@@ -51,8 +51,8 @@ ball.color('white')
 ball.penup()
 ball.goto(0, 0)
 
-ball.dx = 0.6                                       # ball moves by 0.6 pixels, x axis
-ball.dy = 0.6                                       # ball moves by 0.6  pixels, y axis
+ball.dx = 0.2                                       # ball moves by 0.6 pixels, x axis
+ball.dy = 0.2                                       # ball moves by 0.6  pixels, y axis
 
 # functions
 def paddle_a_up():
